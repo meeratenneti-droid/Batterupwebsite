@@ -1,0 +1,38 @@
+body {
+  background-color:#42649b;
+}
+h1 {
+  color: 	#ee862f;
+  text-align: center;
+
+}
+h2 {
+  color: 	#ee862f;
+  text-align: center;
+}
+p {
+  color: 	#ee862f;
+}
+
+nav ul {
+  display: flex;       
+  list-style-type: none;         
+  margin: 0;          
+  gap: 35vw;
+  border: #f6c331;
+  border: 0.125vw solid #f6c331;
+  padding: 1vw;  
+             
+}
+
+nav a {
+  text-decoration: none; 
+  color: #f6c331;      
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%
+}
