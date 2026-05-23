@@ -1,0 +1,47 @@
+body {
+    background-color: #42649b;
+}
+
+p {
+  color: #f6c331;
+}
+
+nav ul {
+  display: flex;       
+  list-style-type: none;         
+  margin: 0;          
+  gap: 23vw;
+  border: #f6c331;
+  border: 0.125vw solid #f6c331;
+  padding: 1vw;  
+             
+}
+
+nav a {
+  text-decoration: none; 
+  color: #f6c331;      
+}
+
+.Gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25vw, 1fr)); 
+    gap: 2vw; 
+    justify-content: center; 
+    justify-items: center; 
+    align-items: center; 
+    max-width: 1200px; 
+    margin: 4vw auto; 
+    padding: 0 4vw;
+}
+
+
+.Gallery img {
+    width: 100%;
+   
+    aspect-ratio: 1 / 1; 
+    
+    object-fit: cover; 
+    border: 0.125vw solid #f6c331;
+}
+
+
