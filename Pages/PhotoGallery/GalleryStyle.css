@@ -6,7 +6,9 @@ p {
   color: #f6c331;
 }
 
-
+h3 a {
+   color: #f6c331; 
+}
 
 .navbar {
   background-color: #ee862f;
@@ -62,7 +64,17 @@ p {
     aspect-ratio: 1 / 1; 
     
     object-fit: cover; 
+}
+
+.Gallery a img {
+    width: 100%;
+   
+    aspect-ratio: 1 / 1; 
+    
+    object-fit: cover; 
+
     border: 0.125vw solid #f6c331;
 }
+
 
 
