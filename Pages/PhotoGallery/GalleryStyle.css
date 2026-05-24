@@ -6,20 +6,41 @@ p {
   color: #f6c331;
 }
 
-nav ul {
-  display: flex;       
-  list-style-type: none;         
-  margin: 0;          
-  gap: 23vw;
-  border: #f6c331;
-  border: 0.125vw solid #f6c331;
-  padding: 1vw;  
-             
+
+
+.navbar {
+  background-color: #ee862f;
+  padding: 10px 20px;
+  position: relative;
 }
 
-nav a {
-  text-decoration: none; 
-  color: #f6c331;      
+.menu-toggle {
+  display: none;
+}
+
+.hamburger {
+  color: white;
+  font-size: 28px;
+  cursor: pointer;
+  display: block;
+}
+
+.menu-links {
+  display: none; 
+  flex-direction: column;
+  width: 100%;
+}
+
+.menu-links a {
+  color: #020672;
+  padding: 15px 0;
+  text-decoration: none;
+  font-size: 18px;
+  border-bottom: 1px solid #ee862f;
+}
+
+.menu-toggle:checked ~ .menu-links {
+  display: flex;
 }
 
 .Gallery {
