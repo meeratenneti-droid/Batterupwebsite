@@ -14,6 +14,10 @@ h1 {
    color: #f6c331; 
 }
 
+h1 a {
+   color: #f6c331; 
+}
+
 .navbar {
   background-color: #ee862f;
   padding: 10px 20px;
