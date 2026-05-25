@@ -10,6 +10,10 @@ h3 a {
    color: #f6c331; 
 }
 
+h3 {
+   color: #f6c331; 
+}
+
 .navbar {
   background-color: #ee862f;
   padding: 10px 20px;
