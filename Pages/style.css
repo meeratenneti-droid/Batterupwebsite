@@ -22,7 +22,7 @@ img {
 }
 
 .navbar {
-  background-color: #ee862f;
+  background-color: #42649b;
   padding: 10px 20px;
   position: relative;
 }
@@ -32,7 +32,7 @@ img {
 }
 
 .hamburger {
-  color: #42649b;
+  color:#ee862f;
   font-size: 28px;
   cursor: pointer;
   display: block;
@@ -45,7 +45,7 @@ img {
 }
 
 .menu-links a {
-  color: #42649b;
+  color: #ffffff;
   padding: 15px 0;
   text-decoration: none;
   font-size: 18px;
