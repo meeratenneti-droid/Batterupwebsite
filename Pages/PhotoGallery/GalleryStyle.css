@@ -1,9 +1,9 @@
 body {
-    background-color: #42649b;
+    background-color: #ffffff;
 }
 
 p {
-  color: #f6c331;
+  color: #42649b;
 }
 
 h3 a {
@@ -29,7 +29,7 @@ h1 a {
 }
 
 .hamburger {
-  color: white;
+  color: #42649b;
   font-size: 28px;
   cursor: pointer;
   display: block;
@@ -42,7 +42,7 @@ h1 a {
 }
 
 .menu-links a {
-  color: #020672;
+  color: #42649b;
   padding: 15px 0;
   text-decoration: none;
   font-size: 18px;
@@ -83,8 +83,6 @@ h1 a {
 
     border: 0.125vw solid #f6c331;
 }
-footer {
-  color:#020672
-}
+
 
 

@@ -1,5 +1,5 @@
 body {
-  background-color:#42649b;
+  background-color:#ffffff;
 }
 h1 {
   color: 	#ee862f;
@@ -11,7 +11,7 @@ h2 {
   text-align: center;
 }
 p {
-  color: 	#ee862f;
+  color: 	#42649b;
 }
 
 img {
@@ -32,7 +32,7 @@ img {
 }
 
 .hamburger {
-  color: white;
+  color: #42649b;
   font-size: 28px;
   cursor: pointer;
   display: block;
@@ -45,7 +45,7 @@ img {
 }
 
 .menu-links a {
-  color: #020672;
+  color: #42649b;
   padding: 15px 0;
   text-decoration: none;
   font-size: 18px;
@@ -57,5 +57,5 @@ img {
 }
 
 footer {
-  color:#020672
+  color:#42649b
 }
