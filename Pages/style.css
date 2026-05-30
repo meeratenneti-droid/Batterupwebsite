@@ -55,3 +55,7 @@ img {
 .menu-toggle:checked ~ .menu-links {
   display: flex;
 }
+
+footer {
+  color:#020672
+}
