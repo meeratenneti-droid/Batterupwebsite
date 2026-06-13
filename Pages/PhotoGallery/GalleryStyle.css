@@ -84,5 +84,9 @@ h1 a {
     border: 0.125vw solid #f6c331;
 }
 
-
+ .policy {
+  margin-left: auto; /* Automatically consumes left space, pushing the box right */
+  width: fit-content;
+  color:#42649b
+}
 

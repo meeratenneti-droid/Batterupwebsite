@@ -56,6 +56,8 @@ img {
   display: flex;
 }
 
-footer {
+ .policy {
+  margin-left: auto; /* Automatically consumes left space, pushing the box right */
+  width: fit-content;
   color:#42649b
 }
